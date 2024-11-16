@@ -1,5 +1,6 @@
 ## Microsoft-Fabric-Earthquake-Data-Engineering_project
 This is Microsoft Fabric End-to-End Data Engineering project and Creating PowerBi Dashboards.
+#### Detailed Explainaiton of this project on medium.com : https://medium.com/@akkapellishruthi/azure-end-to-end-data-engineering-project-in-microsoft-fabric-70f40b8c7ab9
 #### Before we get started with Project to login Microsoft fabric we need Business email ,to create business Email we can create Microsoft Entra Id ,It will provide business email.below link providing How to create Entra Id. https://youtu.be/6K4ADjkWjaY?si=RJST3uaZjSwMJW2j
 ### Tools Used :
 ###### Data Factory
